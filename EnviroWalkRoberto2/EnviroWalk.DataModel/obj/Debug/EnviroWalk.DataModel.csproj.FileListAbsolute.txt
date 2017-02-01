@@ -1,0 +1,36 @@
+c:\users\rguel\documents\visual studio 2015\Projects\EnviroWalk.WebAPI\EnviroWalk.DataModel\bin\Debug\EnviroWalk.DataModel.dll.config
+c:\users\rguel\documents\visual studio 2015\Projects\EnviroWalk.WebAPI\EnviroWalk.DataModel\bin\Debug\EnviroWalk.DataModel.dll
+c:\users\rguel\documents\visual studio 2015\Projects\EnviroWalk.WebAPI\EnviroWalk.DataModel\bin\Debug\EnviroWalk.DataModel.pdb
+c:\users\rguel\documents\visual studio 2015\Projects\EnviroWalk.WebAPI\EnviroWalk.DataModel\bin\Debug\EntityFramework.dll
+c:\users\rguel\documents\visual studio 2015\Projects\EnviroWalk.WebAPI\EnviroWalk.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\rguel\documents\visual studio 2015\Projects\EnviroWalk.WebAPI\EnviroWalk.DataModel\bin\Debug\EntityFramework.xml
+c:\users\rguel\documents\visual studio 2015\Projects\EnviroWalk.WebAPI\EnviroWalk.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\rguel\documents\visual studio 2015\Projects\EnviroWalk.WebAPI\EnviroWalk.DataModel\obj\Debug\EnviroWalk.DataModel.csprojResolveAssemblyReference.cache
+c:\users\rguel\documents\visual studio 2015\Projects\EnviroWalk.WebAPI\EnviroWalk.DataModel\obj\Debug\EnviroWalk.DataModel.dll
+c:\users\rguel\documents\visual studio 2015\Projects\EnviroWalk.WebAPI\EnviroWalk.DataModel\obj\Debug\EnviroWalk.DataModel.pdb
+c:\users\rguel\documents\visual studio 2015\Projects\EnviroWalk.WebAPI\EnviroWalk.DataModel\bin\Debug\EnviroWalk.Model.dll
+c:\users\rguel\documents\visual studio 2015\Projects\EnviroWalk.WebAPI\EnviroWalk.DataModel\bin\Debug\EnviroWalk.Model.pdb
+C:\Users\rguel\Documents\Visual Studio 2015\Projects\EnviroWalk.WebAPI\EnviroWalk.DataModel\obj\Debug\EnviroWalk.DataModel.Migrations.dbInitial.resources
+C:\Users\rguel\Documents\Visual Studio 2015\Projects\EnviroWalk.WebAPI\EnviroWalk.DataModel\obj\Debug\EnviroWalk.DataModel.csproj.GenerateResource.Cache
+C:\Users\rguel\GitRepository\EnviroWalk\EnviroWalk.DataModel\bin\Debug\EnviroWalk.DataModel.dll.config
+C:\Users\rguel\GitRepository\EnviroWalk\EnviroWalk.DataModel\bin\Debug\EnviroWalk.DataModel.dll
+C:\Users\rguel\GitRepository\EnviroWalk\EnviroWalk.DataModel\bin\Debug\EnviroWalk.DataModel.pdb
+C:\Users\rguel\GitRepository\EnviroWalk\EnviroWalk.DataModel\bin\Debug\EntityFramework.dll
+C:\Users\rguel\GitRepository\EnviroWalk\EnviroWalk.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rguel\GitRepository\EnviroWalk\EnviroWalk.DataModel\bin\Debug\EnviroWalk.Model.dll
+C:\Users\rguel\GitRepository\EnviroWalk\EnviroWalk.DataModel\bin\Debug\EnviroWalk.Model.pdb
+C:\Users\rguel\GitRepository\EnviroWalk\EnviroWalk.DataModel\bin\Debug\EntityFramework.xml
+C:\Users\rguel\GitRepository\EnviroWalk\EnviroWalk.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rguel\GitRepository\EnviroWalk\EnviroWalk.DataModel\obj\Debug\EnviroWalk.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\rguel\GitRepository\EnviroWalk\EnviroWalk.DataModel\obj\Debug\EnviroWalk.DataModel.dll
+C:\Users\rguel\GitRepository\EnviroWalk\EnviroWalk.DataModel\obj\Debug\EnviroWalk.DataModel.pdb
+C:\Users\rguel\GitRepository\EnviroWalk\EnviroWalk.DataModel\obj\Debug\EnviroWalk.DataModel.Migrations.first.resources
+C:\Users\rguel\GitRepository\EnviroWalk\EnviroWalk.DataModel\obj\Debug\EnviroWalk.DataModel.csproj.GenerateResource.Cache
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\EnviroWalkRoberto2\EnviroWalk.DataModel\bin\Debug\EnviroWalk.DataModel.dll.config
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\EnviroWalkRoberto2\EnviroWalk.DataModel\bin\Debug\EnviroWalk.DataModel.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\EnviroWalkRoberto2\EnviroWalk.DataModel\bin\Debug\EnviroWalk.DataModel.pdb
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\EnviroWalkRoberto2\EnviroWalk.DataModel\bin\Debug\EnviroWalk.Model.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\EnviroWalkRoberto2\EnviroWalk.DataModel\bin\Debug\EnviroWalk.Model.pdb
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\EnviroWalkRoberto2\EnviroWalk.DataModel\obj\Debug\EnviroWalk.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\EnviroWalkRoberto2\EnviroWalk.DataModel\obj\Debug\EnviroWalk.DataModel.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\EnviroWalkRoberto2\EnviroWalk.DataModel\obj\Debug\EnviroWalk.DataModel.pdb
